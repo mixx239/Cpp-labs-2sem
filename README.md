@@ -3,8 +3,8 @@
 В этом репозитории собраны мои лабораторные работы второго семестра курса "Программирование на C++" ФИТИП ИТМО 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-20-blue?logo=c%2B%2B&logoColor=white" alt="C++23" />
-  <img src="https://img.shields.io/badge/CMake-out%20of%20source-informational?logo=cmake" alt="CMake" />
+  <img src="https://img.shields.io/badge/C%2B%2B-23-blue?logo=c%2B%2B&logoColor=white" alt="C++23" />
+  <img src="https://img.shields.io/badge/CMake-informational?logo=cmake" alt="CMake" />
   <img src="https://img.shields.io/badge/Unit%20tests-Google%20Test-success" alt="GTest" />
 </p>
 
